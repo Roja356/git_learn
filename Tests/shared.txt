@@ -1,1 +1,1 @@
-Application URL=stagging
+Application URL=qa
